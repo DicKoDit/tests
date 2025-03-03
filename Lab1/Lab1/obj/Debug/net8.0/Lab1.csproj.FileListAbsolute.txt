@@ -1,0 +1,44 @@
+C:\Users\ilius\source\repos\2 SEMESTER\Lab1\Lab1\bin\Debug\net8.0\Lab1.exe
+C:\Users\ilius\source\repos\2 SEMESTER\Lab1\Lab1\bin\Debug\net8.0\Lab1.deps.json
+C:\Users\ilius\source\repos\2 SEMESTER\Lab1\Lab1\bin\Debug\net8.0\Lab1.runtimeconfig.json
+C:\Users\ilius\source\repos\2 SEMESTER\Lab1\Lab1\bin\Debug\net8.0\Lab1.dll
+C:\Users\ilius\source\repos\2 SEMESTER\Lab1\Lab1\bin\Debug\net8.0\Lab1.pdb
+C:\Users\ilius\source\repos\2 SEMESTER\Lab1\Lab1\obj\Debug\net8.0\Lab1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ilius\source\repos\2 SEMESTER\Lab1\Lab1\obj\Debug\net8.0\Lab1.AssemblyInfoInputs.cache
+C:\Users\ilius\source\repos\2 SEMESTER\Lab1\Lab1\obj\Debug\net8.0\Lab1.AssemblyInfo.cs
+C:\Users\ilius\source\repos\2 SEMESTER\Lab1\Lab1\obj\Debug\net8.0\Lab1.csproj.CoreCompileInputs.cache
+C:\Users\ilius\source\repos\2 SEMESTER\Lab1\Lab1\obj\Debug\net8.0\Lab1.sourcelink.json
+C:\Users\ilius\source\repos\2 SEMESTER\Lab1\Lab1\obj\Debug\net8.0\Lab1.dll
+C:\Users\ilius\source\repos\2 SEMESTER\Lab1\Lab1\obj\Debug\net8.0\refint\Lab1.dll
+C:\Users\ilius\source\repos\2 SEMESTER\Lab1\Lab1\obj\Debug\net8.0\Lab1.pdb
+C:\Users\ilius\source\repos\2 SEMESTER\Lab1\Lab1\obj\Debug\net8.0\Lab1.genruntimeconfig.cache
+C:\Users\ilius\source\repos\2 SEMESTER\Lab1\Lab1\obj\Debug\net8.0\ref\Lab1.dll
+A:\labs\REPOSITORY\Labs\2 SEMESTER\Lab1\Lab1\bin\Debug\net8.0\Lab1.exe
+A:\labs\REPOSITORY\Labs\2 SEMESTER\Lab1\Lab1\bin\Debug\net8.0\Lab1.deps.json
+A:\labs\REPOSITORY\Labs\2 SEMESTER\Lab1\Lab1\bin\Debug\net8.0\Lab1.runtimeconfig.json
+A:\labs\REPOSITORY\Labs\2 SEMESTER\Lab1\Lab1\bin\Debug\net8.0\Lab1.dll
+A:\labs\REPOSITORY\Labs\2 SEMESTER\Lab1\Lab1\bin\Debug\net8.0\Lab1.pdb
+A:\labs\REPOSITORY\Labs\2 SEMESTER\Lab1\Lab1\obj\Debug\net8.0\Lab1.GeneratedMSBuildEditorConfig.editorconfig
+A:\labs\REPOSITORY\Labs\2 SEMESTER\Lab1\Lab1\obj\Debug\net8.0\Lab1.AssemblyInfoInputs.cache
+A:\labs\REPOSITORY\Labs\2 SEMESTER\Lab1\Lab1\obj\Debug\net8.0\Lab1.AssemblyInfo.cs
+A:\labs\REPOSITORY\Labs\2 SEMESTER\Lab1\Lab1\obj\Debug\net8.0\Lab1.csproj.CoreCompileInputs.cache
+A:\labs\REPOSITORY\Labs\2 SEMESTER\Lab1\Lab1\obj\Debug\net8.0\Lab1.sourcelink.json
+A:\labs\REPOSITORY\Labs\2 SEMESTER\Lab1\Lab1\obj\Debug\net8.0\Lab1.dll
+A:\labs\REPOSITORY\Labs\2 SEMESTER\Lab1\Lab1\obj\Debug\net8.0\refint\Lab1.dll
+A:\labs\REPOSITORY\Labs\2 SEMESTER\Lab1\Lab1\obj\Debug\net8.0\Lab1.pdb
+A:\labs\REPOSITORY\Labs\2 SEMESTER\Lab1\Lab1\obj\Debug\net8.0\Lab1.genruntimeconfig.cache
+A:\labs\REPOSITORY\Labs\2 SEMESTER\Lab1\Lab1\obj\Debug\net8.0\ref\Lab1.dll
+C:\Users\X\source\repos\Lab1\Lab1\bin\Debug\net8.0\Lab1.exe
+C:\Users\X\source\repos\Lab1\Lab1\bin\Debug\net8.0\Lab1.deps.json
+C:\Users\X\source\repos\Lab1\Lab1\bin\Debug\net8.0\Lab1.runtimeconfig.json
+C:\Users\X\source\repos\Lab1\Lab1\bin\Debug\net8.0\Lab1.dll
+C:\Users\X\source\repos\Lab1\Lab1\bin\Debug\net8.0\Lab1.pdb
+C:\Users\X\source\repos\Lab1\Lab1\obj\Debug\net8.0\Lab1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\X\source\repos\Lab1\Lab1\obj\Debug\net8.0\Lab1.AssemblyInfoInputs.cache
+C:\Users\X\source\repos\Lab1\Lab1\obj\Debug\net8.0\Lab1.AssemblyInfo.cs
+C:\Users\X\source\repos\Lab1\Lab1\obj\Debug\net8.0\Lab1.csproj.CoreCompileInputs.cache
+C:\Users\X\source\repos\Lab1\Lab1\obj\Debug\net8.0\Lab1.dll
+C:\Users\X\source\repos\Lab1\Lab1\obj\Debug\net8.0\refint\Lab1.dll
+C:\Users\X\source\repos\Lab1\Lab1\obj\Debug\net8.0\Lab1.pdb
+C:\Users\X\source\repos\Lab1\Lab1\obj\Debug\net8.0\Lab1.genruntimeconfig.cache
+C:\Users\X\source\repos\Lab1\Lab1\obj\Debug\net8.0\ref\Lab1.dll

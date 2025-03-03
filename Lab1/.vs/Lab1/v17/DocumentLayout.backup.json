@@ -1,0 +1,158 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\X\\source\\repos\\Lab1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A5D2824E-CB5B-4CAA-AA7E-84DCE60DFF79}|Lab1\\Lab1.csproj|c:\\users\\x\\source\\repos\\lab1\\lab1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5D2824E-CB5B-4CAA-AA7E-84DCE60DFF79}|Lab1\\Lab1.csproj|solutionrelative:lab1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5D2824E-CB5B-4CAA-AA7E-84DCE60DFF79}|Lab1\\Lab1.csproj|c:\\users\\x\\source\\repos\\lab1\\lab1\\cursedtrash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5D2824E-CB5B-4CAA-AA7E-84DCE60DFF79}|Lab1\\Lab1.csproj|solutionrelative:lab1\\cursedtrash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5D2824E-CB5B-4CAA-AA7E-84DCE60DFF79}|Lab1\\Lab1.csproj|c:\\users\\x\\source\\repos\\lab1\\lab1\\trash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5D2824E-CB5B-4CAA-AA7E-84DCE60DFF79}|Lab1\\Lab1.csproj|solutionrelative:lab1\\trash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5D2824E-CB5B-4CAA-AA7E-84DCE60DFF79}|Lab1\\Lab1.csproj|c:\\users\\x\\source\\repos\\lab1\\lab1\\trashsorter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5D2824E-CB5B-4CAA-AA7E-84DCE60DFF79}|Lab1\\Lab1.csproj|solutionrelative:lab1\\trashsorter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5D2824E-CB5B-4CAA-AA7E-84DCE60DFF79}|Lab1\\Lab1.csproj|c:\\users\\x\\source\\repos\\lab1\\lab1\\trashes\\plastictrash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5D2824E-CB5B-4CAA-AA7E-84DCE60DFF79}|Lab1\\Lab1.csproj|solutionrelative:lab1\\trashes\\plastictrash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5D2824E-CB5B-4CAA-AA7E-84DCE60DFF79}|Lab1\\Lab1.csproj|c:\\users\\x\\source\\repos\\lab1\\lab1\\trashes\\metaltrash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5D2824E-CB5B-4CAA-AA7E-84DCE60DFF79}|Lab1\\Lab1.csproj|solutionrelative:lab1\\trashes\\metaltrash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5D2824E-CB5B-4CAA-AA7E-84DCE60DFF79}|Lab1\\Lab1.csproj|c:\\users\\x\\source\\repos\\lab1\\lab1\\trashes\\organictrash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5D2824E-CB5B-4CAA-AA7E-84DCE60DFF79}|Lab1\\Lab1.csproj|solutionrelative:lab1\\trashes\\organictrash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 396,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\X\\source\\repos\\Lab1\\Lab1\\Program.cs",
+              "RelativeDocumentMoniker": "Lab1\\Program.cs",
+              "ToolTip": "C:\\Users\\X\\source\\repos\\Lab1\\Lab1\\Program.cs",
+              "RelativeToolTip": "Lab1\\Program.cs",
+              "ViewState": "AgIAAI4AAAAAAAAAAAAowFwCAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T08:21:31.945Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TrashSorter.cs",
+              "DocumentMoniker": "C:\\Users\\X\\source\\repos\\Lab1\\Lab1\\TrashSorter.cs",
+              "RelativeDocumentMoniker": "Lab1\\TrashSorter.cs",
+              "ToolTip": "C:\\Users\\X\\source\\repos\\Lab1\\Lab1\\TrashSorter.cs*",
+              "RelativeToolTip": "Lab1\\TrashSorter.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAABkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T08:29:09.799Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Trash.cs",
+              "DocumentMoniker": "C:\\Users\\X\\source\\repos\\Lab1\\Lab1\\Trash.cs",
+              "RelativeDocumentMoniker": "Lab1\\Trash.cs",
+              "ToolTip": "C:\\Users\\X\\source\\repos\\Lab1\\Lab1\\Trash.cs",
+              "RelativeToolTip": "Lab1\\Trash.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T08:27:21.262Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PlasticTrash.cs",
+              "DocumentMoniker": "C:\\Users\\X\\source\\repos\\Lab1\\Lab1\\Trashes\\PlasticTrash.cs",
+              "RelativeDocumentMoniker": "Lab1\\Trashes\\PlasticTrash.cs",
+              "ToolTip": "C:\\Users\\X\\source\\repos\\Lab1\\Lab1\\Trashes\\PlasticTrash.cs",
+              "RelativeToolTip": "Lab1\\Trashes\\PlasticTrash.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAAAwAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T08:39:19.896Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MetalTrash.cs",
+              "DocumentMoniker": "C:\\Users\\X\\source\\repos\\Lab1\\Lab1\\Trashes\\MetalTrash.cs",
+              "RelativeDocumentMoniker": "Lab1\\Trashes\\MetalTrash.cs",
+              "ToolTip": "C:\\Users\\X\\source\\repos\\Lab1\\Lab1\\Trashes\\MetalTrash.cs",
+              "RelativeToolTip": "Lab1\\Trashes\\MetalTrash.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T08:39:04.395Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OrganicTrash.cs",
+              "DocumentMoniker": "C:\\Users\\X\\source\\repos\\Lab1\\Lab1\\Trashes\\OrganicTrash.cs",
+              "RelativeDocumentMoniker": "Lab1\\Trashes\\OrganicTrash.cs",
+              "ToolTip": "C:\\Users\\X\\source\\repos\\Lab1\\Lab1\\Trashes\\OrganicTrash.cs",
+              "RelativeToolTip": "Lab1\\Trashes\\OrganicTrash.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAQwA0AAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T08:38:10.423Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CursedTrash.cs",
+              "DocumentMoniker": "C:\\Users\\X\\source\\repos\\Lab1\\Lab1\\CursedTrash.cs",
+              "RelativeDocumentMoniker": "Lab1\\CursedTrash.cs",
+              "ToolTip": "C:\\Users\\X\\source\\repos\\Lab1\\Lab1\\CursedTrash.cs",
+              "RelativeToolTip": "Lab1\\CursedTrash.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T08:14:56.208Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
